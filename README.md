@@ -2,26 +2,25 @@
 temp financial garbage dump 
 
 # Same Same but Different
-[Modern Tax](https://www.moderntax.io/)
-[Column Tax](https://www.columntax.com/)
-
-[Pinwheel](https://www.pinwheelapi.com/)
-[Atomic Finance](https://atomic.financial/)
+- [Modern Tax](https://www.moderntax.io/)
+- [Column Tax](https://www.columntax.com/)
+- [Pinwheel](https://www.pinwheelapi.com/)
+- [Atomic Finance](https://atomic.financial/)
 note: column tax uses atomic financial
 
 # Ledger Services
-[Galileo](https://docs.galileo-ft.com/pro/docs)
+- [Galileo](https://docs.galileo-ft.com/pro/docs)
 I think SoFi owns this. Which reminds me, MICHELLE GO PAY YOUR BILL
 
 # NACHA related
-[Afinis](https://www.afinis.org/apis)
+- [Afinis](https://www.afinis.org/apis)
 Hard to understand if it's freemium or some price tier. Sign up to join org is $2.5k which is nothing compared to how much yah put into crpyto and GME movement. 
 
-[Marqueta](https://www.marqeta.com/)
+- [Marqueta](https://www.marqeta.com/)
 
 # Everything Else
-[Argyle](https://argyle.com/)
-[Lithic](https://lithic.com/)
+- [Argyle](https://argyle.com/)
+- [Lithic](https://lithic.com/)
 
 # Embedded Investing 
 https://embed.com/
