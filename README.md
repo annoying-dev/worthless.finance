@@ -5,7 +5,7 @@ temp financial garbage dump
 - [Modern Tax](https://www.moderntax.io/) => too early
 - [Column Tax](https://www.columntax.com/) => series A
 - [Pinwheel](https://www.pinwheelapi.com/) => series B
-- [Atomic Finance](https://atomic.financial/) => 
+- [Atomic Finance](https://atomic.financial/) => series A
 note: column tax uses atomic financial
 
 # Ledger Services
