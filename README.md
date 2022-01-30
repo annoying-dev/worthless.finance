@@ -41,3 +41,4 @@ what poetry. <br>
 - [Plaid Lending API](https://plaid.com/use-cases/lending/?utm_source=google&utm_medium=search&utm_campaign=Search_G_Nonbrand_MKAG_Phrase&utm_content=Lending&utm_term=verification%20of%20income&utm_creative=560038063143&gclid=CjwKCAiAlrSPBhBaEiwAuLSDUHxU-3VGshHk8jMmCJ8oc8FQ28DWD6Q4Z24kaDBO-j0Wivn_HlonqBoCTD0QAvD_BwE)
 - Pinwheel vs Atomic Fi
 - Plaid Lending vs Atomic Fi Lending
+- [Financial Modeling/Analyst Classes](https://corporatefinanceinstitute.com/collections/?topic=86225)
