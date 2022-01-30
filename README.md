@@ -1,5 +1,7 @@
 # worthless.finance
-temp financial garbage dump 
+Temp financial garbage dump.
+
+- Inspired by [The Useless Duck Company](https://www.youtube.com/watch?v=dQM__8Jn978), co-founder of [awesomeness](https://lemon.io/)
 
 # Same Same but Different
 - [Modern Tax](https://www.moderntax.io/) => too early
