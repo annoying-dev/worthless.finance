@@ -1,7 +1,10 @@
 # worthless.finance
-Temp financial garbage dump.
-
+Temp financial garbage dump. I wonder if I can make this a non-profit org. The best way to learn is from others' mistakes and our own. 
 - Inspired by [The Useless Duck Company](https://www.youtube.com/watch?v=dQM__8Jn978), co-founder of [awesomeness](https://lemon.io/)
+
+
+## Objective: Humans of New York Style blog posts on people's financial fuck ups but in a humorous light that more or less teaches the reader a lesson (whether they realize it or not). I could also make a lot of useless financial tools like a dummy credit to show how much debt you'd rack up with all the things you can't buy but tried to. Or a loyalty card in Google Pay / Apple Wallet where you can rack up useless points in a gamified way that doesn't actually reward you with anything but dopamine. Maybe it'll highlight how companies influence you to spend on things you don't need. 
+
 
 # Same Same but Different
 - [Modern Tax](https://www.moderntax.io/) => too early
