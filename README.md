@@ -7,11 +7,11 @@ Temp financial garbage dump. I wonder if I can make this a non-profit org. The b
 
 
 # Same Same but Different
-- [Modern Tax](https://www.moderntax.io/) => too early
+Retrieve IRS taxpayer data quickly 
+- [Modern Tax](https://www.moderntax.io/) => too early 
 - [Column Tax](https://www.columntax.com/) => series A
 - [Pinwheel](https://www.pinwheelapi.com/) => series B
-- [Atomic Finance](https://atomic.financial/) => series A
-note: column tax uses atomic financial
+- [Atomic Finance](https://atomic.financial/) => series A (note: column tax uses atomic fi)
 
 # Process (GPS)
 - [Galileo](https://docs.galileo-ft.com/pro/docs) 
